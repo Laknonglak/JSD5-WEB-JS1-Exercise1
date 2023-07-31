@@ -1,0 +1,3 @@
+function ChangeName (){
+//code here
+}
